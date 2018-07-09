@@ -1,0 +1,13 @@
+---
+label: Front Test
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  description: Add a front page title
+- type: textarea
+  name: front_page_content
+  label: Front page content
+  description: Add any text for front
